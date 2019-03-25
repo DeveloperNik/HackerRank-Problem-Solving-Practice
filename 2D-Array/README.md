@@ -11,11 +11,13 @@
 ~~~~
 
 <p>We define an hourlgass in A to be a subset of values with indices falling in this pattern in <em>arr</em>'s graphical representation:</p>
+
 ~~~~
 a b c
   d  
 e f g
 ~~~~
+
 <p>There are 16 hourgalsses in <em>arr</em>, and an hourglass sum is the sum of an hourglass' values. Calculate the hourgalss sum for every hourgalss in <em>arr</em>, then print the maximum hourglass sum.</p>
 <p>For example, given the 2D array:</p>
 
