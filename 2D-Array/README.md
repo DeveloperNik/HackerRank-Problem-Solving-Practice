@@ -55,7 +55,7 @@ If you have already solved the Java doomain's Java 2D Array challenge, you may w
 <p>Complete the function hourglassSum in the editor below. It should return an integer, the maximum hourglass sum in the array.</p>
 <p>hourglassSum has the following parameter(s):</p>
 <ul>
-<li>arr: an array of integers</li>
+  <li><em>arr</em>: an array of integers</li>
 </ul>
 
 # Input Format
@@ -63,8 +63,8 @@ If you have already solved the Java doomain's Java 2D Array challenge, you may w
 
 # Constraints
 <ul>
-<li>-9 ≤ <em>arr[i][j] ≤ 9</em></li>
-<li>0 ≤ <em>i, j</em> ≤ 5</li>
+  <li>-9 ≤ <em>arr[i][j] ≤ 9</em></li>
+  <li>0 ≤ <em>i, j</em> ≤ 5</li>
 </ul>
 
 # Output Format
