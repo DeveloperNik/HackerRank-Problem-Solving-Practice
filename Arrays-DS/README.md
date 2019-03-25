@@ -7,7 +7,7 @@ If you've already solved our C++ domain's Array introduction challenge, you may 
 
 # Input Format
 <p>The first line contains an integer, <em>N</em> (the number of integers in <em>A</em>).</p>
-<p>The second line contains <em>N</em> space-separated integers describing <em>A</em>.
+<p>The second line contains <em>N</em> space-separated integers describing <em>A</em>.</p>
 
 # Constraints
 <ul>
