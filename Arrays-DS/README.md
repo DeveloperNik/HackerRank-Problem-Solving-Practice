@@ -13,6 +13,7 @@ If you've already solved our C++ domain's Array introduction challenge, you may 
 <ul>
 <li>1 ≤ <em>N</em> ≤ 10^3</li>
 <li>1 ≤ <em>Ai</em> ≤ 10^4, where <em>Ai</em> is the <em>ith</em> integer in <em>A</em></li>
+</ul>
 
 # Output Format
 Print all <em>N</em> integers in <em>A</em> in reverse order as a single line of space-separated integers
