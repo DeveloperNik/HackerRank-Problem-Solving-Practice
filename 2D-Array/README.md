@@ -67,3 +67,9 @@ If you have already solved the Java doomain's Java 2D Array challenge, you may w
 <p><code>  2  </code></p>
 <p><code>1 2 4</code></p>
 <p>With a sum of 19.
+  
+  
+# Test
+<code>
+2 4 4<br/>  2  <br/>1 2 4
+</code>
