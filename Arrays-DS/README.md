@@ -18,10 +18,8 @@ If you've already solved our C++ domain's Array introduction challenge, you may 
 Print all <em>N</em> integers in <em>A</em> in reverse order as a single line of space-separated integers
 
 # Sample Input 1
-<code>
-<p>4</p>
-<p>1 4 3 2</p>
-</code>
+<p><code>4</code></p>
+<p><code>1 4 3 2</code></p>
 
 # Sample Output 1
 <code>
