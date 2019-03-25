@@ -1,5 +1,6 @@
 # 2D Array - DS
 <p>Given a 6 x 6 2D array, <em>arr</em>:</p>
+
 ~~~~
 1 1 1 0 0 0
 0 1 0 0 0 0
@@ -8,6 +9,7 @@
 0 0 0 0 0 0
 0 0 0 0 0 0
 ~~~~
+
 <p>We define an hourlgass in A to be a subset of values with indices falling in this pattern in <em>arr</em>'s graphical representation:</p>
 ~~~~
 a b c
@@ -16,6 +18,7 @@ e f g
 ~~~~
 <p>There are 16 hourgalsses in <em>arr</em>, and an hourglass sum is the sum of an hourglass' values. Calculate the hourgalss sum for every hourgalss in <em>arr</em>, then print the maximum hourglass sum.</p>
 <p>For example, given the 2D array:</p>
+
 ~~~~
 -9 -9 -9  1 1 1
  0 -9  0  4 3 2
@@ -24,19 +27,24 @@ e f g
  0  0  0 -2 0 0
  0  0  1  2 4 0
 ~~~~
+
 <p>We calculate the following 16 hourglass values:</p>
+
 ~~~~
 -63, -34,  -9,  12,
 -10,   0,  28,  23,
 -27, -11,  -2,  10,
   9,  17,  25,  18
 ~~~~
+
 <p>Our highest hourglass value is 28 from the hourglass:</p>
+
 ~~~~
 0 4 3
   1  
 8 6 6
 ~~~~
+
 
 # Note:
 If you have already solved the Java doomain's Java 2D Array challenge, you may wish to skip this challenge
@@ -77,9 +85,11 @@ If you have already solved the Java doomain's Java 2D Array challenge, you may w
 
 # Explanation
 <p><em>arr</em>'s maximum sum hourglass is:</p>
+
 ~~~~
 2 4 4
   2  
 1 2 4
 ~~~~
+
 <p>With a sum of 19.
